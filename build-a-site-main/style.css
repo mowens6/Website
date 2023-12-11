@@ -1,0 +1,27 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  size: 50px;
+}
+.page {
+  width: 2000px;
+  
+  margin: 0 auto;
+  background-color: darkgoldenrod;
+  height: 1000px;
+  
+}
+
+
+
+.button {
+ 
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+  right: 25px;
+}
